@@ -16,7 +16,7 @@ import traceback
 warnings.filterwarnings('ignore')
 
 # Initialize Google Maps client
-API_KEY = 'AIzaSyABycn2HPoNr5as5TnTr39sd0TvIhi8HQE'
+API_KEY = ''
 gmaps = googlemaps.Client(key=API_KEY)
 
 # Location coordinates for mapping
